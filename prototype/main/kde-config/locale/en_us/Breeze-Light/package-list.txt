@@ -8,25 +8,6 @@
 
 
 ##
-## ## Package / Kde
-##
-
-## https://wiki.debian.org/KDE
-
-#kde-full
-kde-standard
-#kde-plasma-desktop
-
-
-kwin-addons
-
-
-kde-spectacle
-
-
-
-
-##
 ## ## Package / Tool
 ##
 
